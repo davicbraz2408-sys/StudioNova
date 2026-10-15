@@ -1,0 +1,15 @@
+export const site = {
+  name: 'Studio Nova',
+  fullName: 'Studio Nova Arquitetura',
+  tagline: 'Arquitetura & Interiores',
+  description: 'Criamos espaços que inspiram — do conceito à execução.',
+  email: 'contato@studionova.arq.br',
+  phone: '+55 11 3000-0000',
+  phoneHref: '+551130000000',
+  address: 'Av. Paulista, 1000 — Bela Vista, São Paulo — SP',
+  mapsUrl: 'https://www.google.com/maps/search/?api=1&query=Av.+Paulista%2C+1000%2C+Bela+Vista%2C+S%C3%A3o+Paulo%2C+SP',
+  instagram: '@studionova.arq',
+  instagramUrl: 'https://instagram.com/studionova.arq',
+  hours: 'Seg–Sex: 9h às 18h',
+  whatsapp: '5511990170197',
+};
